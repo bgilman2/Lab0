@@ -7,3 +7,4 @@ List two truths and one lie about you below
 
 
 Bonus (+1), add your screen shot as an image here.
+![alt text](https://github.com/bgilman2/Lab0/blob/master/proof/Screenshot%20(3).png)
